@@ -1,7 +1,5 @@
 # Practical Test
 
-Please fork this repository to one of your own
-
 Install the server
 ```sh
 npm i
@@ -36,6 +34,6 @@ Edit the Answers.txt file with answeres to the following questions:
     - you have any additional resources you want to make the system run as fast and handle as many requests as possible
 3. choose one of the solutions you proposed and start refactoring (start with pseudo code and only then start to flesh it out)
 
-Send the forked repository to eyal@colu.com
+Zip the code and send it to eyal@colu.com
 
 # Good luck!
