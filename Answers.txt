@@ -7,7 +7,7 @@ what is the main issue that is causing the server to return errors?
 
 how will you refactor the server to make sure it will not return errors in these scnarios: 
 
-	a. you have no additional resources other than the original server (assume the server is spec it the same as your laptop) 
+	a. you have no additional resources other than the original server (assume the server spec is the same as your laptop) 
 
 
 
