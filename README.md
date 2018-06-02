@@ -31,9 +31,9 @@ Edit the Answers.txt file with answeres to the following questions:
 
 1. what is the main issue that is causing the server to return errors?
 2. how will you refactor the server to make sure it will not return errors in these scnarios:
-    a. you have no additional resources other than the original server (assume the server is spec it the same as your laptop)
-    b. there is no time limit for the server response
-    c. you have any additional resources you want to make the system run as fast and handle as many requests as possible
+    - you have no additional resources other than the original server (assume the server is spec it the same as your laptop)
+    - there is no time limit for the server response
+    - you have any additional resources you want to make the system run as fast and handle as many requests as possible
 3. choose one of the solutions you proposed and start refactoring (start with pseudo code and only then start to flesh it out)
 
 Send the forked repository to eyal@colu.com
