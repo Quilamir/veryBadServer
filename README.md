@@ -15,7 +15,7 @@ Start the server
 ```sh
 node index.js
 ```
-Run the altillery testlow to see how the server behaves in low traffic
+Run the artillery testlow to see how the server behaves in low traffic
 ```sh
 artillery run testlow.yml
 ```
@@ -28,7 +28,7 @@ As you can see in high traffic the server is not performing very well, not only 
 Edit the Answers.txt file with answeres to the following questions:
 
 1. what is the main issue that is causing the server to return errors?
-2. how will you refactor the server to make sure it will not return errors in these scnarios:
+2. how will you refactor the server to make sure it will process all requests in each of the following scenarios:
     - you have no additional resources other than the original server (assume the server spec is the same as your laptop)
     - there is no time limit for the server response
     - you have any additional resources you want to make the system run as fast and handle as many requests as possible
